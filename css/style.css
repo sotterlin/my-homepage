@@ -1,9 +1,22 @@
 /* Feel free to change me and make me your own! */
 
 body {
-  background-color: #edd8c3; 
+  background-color: #4b7050; 
   font-family: Georgia, serif; 
+
 }
+
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+  color:white; 
+}
+
+li, p {
+  color:white; 
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
 
 article {
   margin-left: 10vw; 
